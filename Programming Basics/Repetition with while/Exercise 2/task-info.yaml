@@ -3,15 +3,15 @@ files:
   - name: src/Task.kt
     visible: true
     placeholders:
-      - offset: 100
-        length: 6
+      - offset: 205
+        length: 0
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 100
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
         encrypted_possible_answer: TjSmf0dgxjtEaBdQe6nS/N6Al0gNWJjxDnN4rXceycmu1hIGfgO2FbBB1NPJtjrps327jx0tDmUR7fVGfwlgQm3gRSRiDz2ffFhS+ALclwC+hTMObAdoz09tRtgOP08i
     encrypted_text: RaBi27xADCIeGpVFtUizeOgeO++tgj5z2pI6z/xC2gOUh/qqMjWLDWNALL4RzpnoR1xT3ZV/qOYV4HLXdnMCspX2EuUOjJqNhYehI53zUijPuzI2LerjiB0YcYmrUvvrCTndzPqp5j6HWTqwtph+tMrpvlBDltXEIiqtB0aK8aYt4Qg0jg6alH46p1Rcjw7TbpFTO+Ziw3UeblBl/IClbQ==
     learner_created: false
@@ -21,5 +21,8 @@ files:
     learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Repetition+with+while+%2F+Exercise1
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 23 Feb 2024 16:54:06 UTC"
 record: -1

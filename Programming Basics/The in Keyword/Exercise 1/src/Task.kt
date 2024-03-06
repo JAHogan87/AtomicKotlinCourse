@@ -1,8 +1,14 @@
 // InKeyword/Task1.kt
 package theInKeywordExercise1
 
-fun getAlphabet(): String {
-  TODO()
+fun getAlphabet(): String
+{
+  var alphabet = ""
+  for(i in 'a'..'z')
+  {
+    alphabet += i
+  }
+  return alphabet
 }
 
 fun main() {

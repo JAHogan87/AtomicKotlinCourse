@@ -9,8 +9,20 @@ fun factorial(n: Int): Long {
   return result
 }
 
-fun sumOfFactorials(n: Int): Long {
-  TODO()
+fun sumOfFactorials(n: Int): Long
+{
+  var result2 = 1L
+  var p = n-(n-1)
+  for(i in 1..n-1)
+  {
+    p++
+    result2 +=factorial(p)
+
+  }
+
+  return result2
+
+
 }
 
 fun main() {

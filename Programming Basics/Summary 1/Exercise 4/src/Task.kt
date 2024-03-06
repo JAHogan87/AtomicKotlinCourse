@@ -1,16 +1,19 @@
 // Summary1/Task4.kt
 package summaryIExercise4
 
-fun testLong() {
-  TODO()
+fun testLong()
+{
+  println(Long.MAX_VALUE+1)
 }
 
 fun testDouble() {
-  TODO()
+  println(Double.MAX_VALUE+1)
 }
 
 fun testDouble2() {
-  TODO()
+
+  println(Double.MAX_VALUE == (Double.MAX_VALUE+1))
+
 }
 
 fun main() {

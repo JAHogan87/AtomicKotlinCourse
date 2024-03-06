@@ -4,14 +4,14 @@ files:
     visible: true
     placeholders:
       - offset: 83
-        length: 6
+        length: 82
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 83
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
         encrypted_possible_answer: xLy8dtLQfL1g56R/JghpASivtk1l0G1/AdHJxnNtzwBVRudrXhhvmD9qUoZkHKdVdBmuUt8Bdc+XFXUdB/HpfA==
     encrypted_text: PDkfyWu5j6vmHCzfjxc+OeTQdksP9f7nnE+VPNgA8w3duO/8xwZutTWlRL3/wI037qSF6FF/hmFpWQqEeQM7Y/A1jNlJ7cc2q9AqNq1B6dNAbFRujY9GVQAEp4WzNK87rDioRLA/Ue2s2OJUQitesezWKam8i+8PmdD29Ku9YJlDQF4e4ozFLpJeSFYPhQpa97FgbarOhfL/0M5c/ZRcUmnD55EmU/BOfk5sES4G3DE=
     learner_created: false
@@ -21,5 +21,8 @@ files:
     learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+The+in+Keyword+%2F+Exercise1
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 05 Mar 2024 21:45:32 UTC"
 record: -1

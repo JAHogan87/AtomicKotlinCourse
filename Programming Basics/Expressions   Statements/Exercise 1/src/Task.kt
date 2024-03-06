@@ -2,5 +2,5 @@
 package expressionsAndStatementsExercise1
 
 fun main() {
-  TODO()
+  println(println(1))
 }

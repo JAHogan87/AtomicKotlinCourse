@@ -2,10 +2,10 @@
 package summaryIExercise3
 
 fun first(a: Boolean, b: Boolean, c: Boolean): Boolean =
-  if (a) TODO() else TODO()
+  if (a && b && c) true else false
 
 fun second(a: Boolean, b: Boolean, c: Boolean): Boolean =
-  if (a) TODO() else TODO()
+  if (a || b || c) true else false
 
 fun main() {
   println(first(true, true, true))

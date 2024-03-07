@@ -4,15 +4,16 @@ files:
     visible: true
     placeholders:
       - offset: 93
-        length: 6
+        length: 2
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 93
         initialized_from_dependency: false
+        encrypted_possible_answer: +XwxVymeylYsvn0hNp/1TL8a+0mb6ZU29l3CsD3BZ4KJf3EyVLj5WfHDd/IXybEI14qlBIunqV3+I7tgEOLJra7KY2Qiz0ejX69jcQXX9+w2SWbUGKZxRkZPhdhSTbvUWe/POCJmlyLtMwIEDjQdLdw57jugBMjVq1uILaHkNG7V3wONPtk/NkqlDL6MWugD4PMqzh46olSePJcs/cGzbr7vT4L5i2kr0M1l14u8bVw+egnPiaxEjF1JuglvBy9oWtShK/SSVnpMZOTihnHTbNbfkLDYuLPTFCL8e/yhiDS8kivMJVgpzm0NUeHQHZGrYK5ZK+cVBVuLp6WZTsuljzCJYnIczyEzbYVl0I4BF95LbFq3IxokXdGEegATfEkQk+fnqNMRlbqv2qEpKcLW4w==
         selected: false
         status: Unchecked
-        encrypted_possible_answer: +XwxVymeylYsvn0hNp/1TL8a+0mb6ZU29l3CsD3BZ4KJf3EyVLj5WfHDd/IXybEI14qlBIunqV3+I7tgEOLJra7KY2Qiz0ejX69jcQXX9+w2SWbUGKZxRkZPhdhSTbvUWe/POCJmlyLtMwIEDjQdLdw57jugBMjVq1uILaHkNG7V3wONPtk/NkqlDL6MWugD4PMqzh46olSePJcs/cGzbr7vT4L5i2kr0M1l14u8bVw+egnPiaxEjF1JuglvBy9oWtShK/SSVnpMZOTihnHTbNbfkLDYuLPTFCL8e/yhiDS8kivMJVgpzm0NUeHQHZGrYK5ZK+cVBVuLp6WZTsuljzCJYnIczyEzbYVl0I4BF95LbFq3IxokXdGEegATfEkQk+fnqNMRlbqv2qEpKcLW4w==
+        is_visible: false
     encrypted_text: JOlrc05WUCsrcvu8aiKeKcmM+xCG6fk2Upbzufz3IefWxpvI/NWEZKCgtRIqMw6k0pnqCJlmai7jPnEOHMrstYSOrNQjQTtOsSUM5bUZRTlBDLT/n37ipnhz5GJ+nDeu3BC61ZXq47N4ubrhy1cyRcGfBTOzght/yL3+zSE+KGCOs1VYwGOB1dJGYGvJ2VUMdEBaBCpGn+uKfpH2PMGM0epjlrcX+MAHWpoumfZNaLBfsacQacYYvzN/7TlhgeuKWMy8ekpug8Eh2vKkfjV2N/j4rnybOoqaFeOZ+T+RWQntNJeslT/ysh1mHUlVND6TcCK4Wp5wHLcS7K73gxkujbTh/dXb2evzD1cUF9u4dN0=
     learner_created: false
   - name: test/Tests.kt

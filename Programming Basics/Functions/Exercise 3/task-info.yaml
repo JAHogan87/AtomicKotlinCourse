@@ -10,9 +10,10 @@ files:
           length: 6
           offset: 85
         initialized_from_dependency: false
+        encrypted_possible_answer: XeAfCmQSK+QZoI82IjSaLg==
         selected: false
         status: Solved
-        encrypted_possible_answer: XeAfCmQSK+QZoI82IjSaLg==
+        is_visible: false
     encrypted_text: P2TNWzrkldotOjhf49bLKjLxLPxt8zez33VwylTiQDxw4mDGy48etssZ+i7oxa+DcPNOc5esMH9OaESTAuRcuTgL2oyK6gOTkfqwvSJpIiudOq4DLs1+JlDOFRAtWeiLImoI+FxwvA8KVrA9YSBBK5PdcfyTJc59ouIzXVC/UiavcjORw1Cv13CAg4o2zfvx72CmoxY23eyxwcT7PqG3Kw==
     learner_created: false
   - name: test/Tests.kt

@@ -10,9 +10,10 @@ files:
           length: 6
           offset: 197
         initialized_from_dependency: false
+        encrypted_possible_answer: DkCCN1taJCTI56AZBTiZBZZORkKq29FlA71IZncseT2f4bhnqPNrCJ8CX0eCN/qb/AJn+nXF/t78vN0nVkxcGXeP7m8l3oqmtmDgXiWI2vPBcCi6aDk6+1rOuX0H25Pp
         selected: false
         status: Solved
-        encrypted_possible_answer: DkCCN1taJCTI56AZBTiZBZZORkKq29FlA71IZncseT2f4bhnqPNrCJ8CX0eCN/qb/AJn+nXF/t78vN0nVkxcGXeP7m8l3oqmtmDgXiWI2vPBcCi6aDk6+1rOuX0H25Pp
+        is_visible: false
     encrypted_text: ziGQOjgkKm7dlGET51GACAedpdL1vHQ52BGxwOcmcWaDORgN+PQgi7K3JUTH0u/VcCLPRvF8z8dMhGa5R5Uok8eIjBtJJ2/vl0raBXhEAf03AjhzHVoq+nuYkblEG48MVLEWAtFoyMc+YceW8TJ+3MbY0olhuaNEgVAsOO4Oo+9sZFhS40rIRERS/1xGEUr87l1TKDB1MVecKwYVds6mjA3dga3LPlBUdvXodZ+xw21I/SnNn5wvfe49WuteRvw+ZuyowMAHgRlq/EDFHFcdhA==
     learner_created: false
   - name: test/output.txt

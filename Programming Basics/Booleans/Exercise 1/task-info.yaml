@@ -10,9 +10,10 @@ files:
           length: 6
           offset: 100
         initialized_from_dependency: false
+        encrypted_possible_answer: 1qQ9kQ9eUXSirgUkxBvydQ==
         selected: false
         status: Solved
-        encrypted_possible_answer: 1qQ9kQ9eUXSirgUkxBvydQ==
+        is_visible: false
       - offset: 142
         length: 4
         placeholder_text: TODO()
@@ -20,9 +21,10 @@ files:
           length: 6
           offset: 143
         initialized_from_dependency: false
+        encrypted_possible_answer: B32H4xjFtl8yhKC200kQ5w==
         selected: true
         status: Solved
-        encrypted_possible_answer: B32H4xjFtl8yhKC200kQ5w==
+        is_visible: false
       - offset: 212
         length: 4
         placeholder_text: TODO()
@@ -30,9 +32,10 @@ files:
           length: 6
           offset: 215
         initialized_from_dependency: false
+        encrypted_possible_answer: B32H4xjFtl8yhKC200kQ5w==
         selected: true
         status: Solved
-        encrypted_possible_answer: B32H4xjFtl8yhKC200kQ5w==
+        is_visible: false
     encrypted_text: 4iLvDJtXaOqWnQqKRTcU6RY99/x6ODRp8xZsFP9+EC9xc64yv0n4A1ICkwBuJB4nAb0zgX4Hi11MKI8t0eDaDBhZAgTu6fuIiKArdzHdplzf3Yq319BE44gk/EB3HeUsPRjI2qXbI2CrY1mEn3Apr36nkmU+ualisj+r6toc6tA2l0lqrzvB1IRwr6GTAkNQg4rgibkaNCDLneNbuCpWHNKVbl0YA3Cey4WBp8F0zc8XiDQJEQMyGXuBp+68lIyomGLAzv+ZA7921GFMEOy5CqK2WZtuhXdqQBVVKOKao0Y=
     learner_created: false
   - name: test/Tests.kt

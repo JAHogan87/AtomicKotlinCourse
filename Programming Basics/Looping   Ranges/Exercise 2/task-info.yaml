@@ -10,9 +10,10 @@ files:
           length: 6
           offset: 209
         initialized_from_dependency: false
+        encrypted_possible_answer: lNQrkHx1+77FvO+RMv9UELJvBRYS8Jr0TvNXyUgKJGoeKMcv0GfIhJL6w/xdgGVvHoB8QxEmGTgJ2C0hiQ044EfcfB4xburKSS9KatFs+BX2m8LSnNUzPdCPuY/RZQpl
         selected: true
         status: Solved
-        encrypted_possible_answer: lNQrkHx1+77FvO+RMv9UELJvBRYS8Jr0TvNXyUgKJGoeKMcv0GfIhJL6w/xdgGVvHoB8QxEmGTgJ2C0hiQ044EfcfB4xburKSS9KatFs+BX2m8LSnNUzPdCPuY/RZQpl
+        is_visible: false
     encrypted_text: HayLqroDq+WHIoJtrP7c/NqUcy0v7ZhIsES/J16YPApLcTuumR37+fk2qMqOB7oMfWvq1IdRHovxnNswYKRw8EdMyQ50PprEVoekNUC2tGDPqum5DVfe4+yuRym+4NoINJ0mAu4dMfYplLpcz1xspBTzG12Ki2OST/0zUGWXzMAZLvniEBPcg4H7PoVTBPz20dz22B9YPXNGZDBnZA0rZqhfn7tYQwKbDx1pMX6i0ssSJS85VADMe0KpetUimdV8+jqBA5jUE6zBFb5OIVB7NgVfzb60AdkKcTau79VRocjhYbBsWZbUXTODCsv/K8gN8zEYHErufurBicFmzIjWce3/l+kaLA0CVbQW2Ptf3bJVcBi8X874nU3A91CPbN36
     learner_created: false
   - name: test/Tests.kt

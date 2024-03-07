@@ -10,9 +10,10 @@ files:
           length: 16
           offset: 48
         initialized_from_dependency: false
+        encrypted_possible_answer: lD+1dP/HwmduQ/LBoBQeDGwu0KszA8Mq5vqclk6q1pJJdMzW27NLitP6XGdSDLAq3r7KEoNzQKSncTdXqPyh2WiQJgqrINewS7HGQdWWEmNhdjsbszdT6G1WPs2QBTq/KlYWWuiEhCD7oI3AV32roA==
         selected: true
         status: Solved
-        encrypted_possible_answer: lD+1dP/HwmduQ/LBoBQeDGwu0KszA8Mq5vqclk6q1pJJdMzW27NLitP6XGdSDLAq3r7KEoNzQKSncTdXqPyh2WiQJgqrINewS7HGQdWWEmNhdjsbszdT6G1WPs2QBTq/KlYWWuiEhCD7oI3AV32roA==
+        is_visible: false
       - offset: 151
         length: 100
         placeholder_text: "fun showOr() {}"
@@ -20,9 +21,10 @@ files:
           length: 15
           offset: 66
         initialized_from_dependency: false
+        encrypted_possible_answer: 1VGEyOOlbZHkoz/d0XddwvxnyvLop/NXYptCY/hSw5RhSuLX7l6S4qCYmXuKDl1a2d2a2Bj5KCoLdT8ZI5Tmk0m61e4GKHy4D8WtUEGnjGtAVWd25PrEpv5qyUzP9BM39qF9S38p4dYk9Sq9+ESUcA==
         selected: true
         status: Solved
-        encrypted_possible_answer: 1VGEyOOlbZHkoz/d0XddwvxnyvLop/NXYptCY/hSw5RhSuLX7l6S4qCYmXuKDl1a2d2a2Bj5KCoLdT8ZI5Tmk0m61e4GKHy4D8WtUEGnjGtAVWd25PrEpv5qyUzP9BM39qF9S38p4dYk9Sq9+ESUcA==
+        is_visible: false
       - offset: 456
         length: 0
         placeholder_text: TODO()
@@ -30,9 +32,10 @@ files:
           length: 6
           offset: 108
         initialized_from_dependency: false
+        encrypted_possible_answer: BClce5KSITe6acp4Vjuo/H8z0Gaqe+e7ioN3V1VfNl/kZ3vFLMPS/I7b4rjwqUQBi48o51KHTkXAvNP+MSWwEi7I7+kxMAH3etIjoZm/4YHomP+BzBDD37wChD8a8+KcPyWNjywuPv/btEOtXBR9L3utWAHTI/BOteBrFXAdcknuGaR2+484IlZzbPaJYj0Va9HjXDllB895RwqvenSHKB5dlIyIjL26kNjrRTY/0+FAAMLcht7wY+wWqe8E26Dg
         selected: true
         status: Solved
-        encrypted_possible_answer: BClce5KSITe6acp4Vjuo/H8z0Gaqe+e7ioN3V1VfNl/kZ3vFLMPS/I7b4rjwqUQBi48o51KHTkXAvNP+MSWwEi7I7+kxMAH3etIjoZm/4YHomP+BzBDD37wChD8a8+KcPyWNjywuPv/btEOtXBR9L3utWAHTI/BOteBrFXAdcknuGaR2+484IlZzbPaJYj0Va9HjXDllB895RwqvenSHKB5dlIyIjL26kNjrRTY/0+FAAMLcht7wY+wWqe8E26Dg
+        is_visible: false
     encrypted_text: 4iLvDJtXaOqWnQqKRTcU6ReryqbMOjAhjFtTb8q04EtUPcSKEpBULTIK5OY8qzBuN7sMra+aQ/Q5TaZA4A85rgt8yZwKQu3l/YqINN447p8rQkwXG2pM8uoMH4TiqH0OhlIzzyrndVeqEZ8N8em+IPKFaydrydkwOut3ZDfgmS7GAqpPNa4zwX5EF8oLn7mAt8O6ODaFCZl+QWQ0WUzs6A==
     learner_created: false
   - name: test/Tests.kt

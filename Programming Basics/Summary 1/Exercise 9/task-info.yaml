@@ -3,16 +3,17 @@ files:
   - name: src/Task.kt
     visible: true
     placeholders:
-      - offset: 78
-        length: 6
+      - offset: 160
+        length: 168
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 78
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: IKfwB2v1tyQaApSiWTpKYpOrKFUBa0aoy4anmPRPDKnNnyA6aV+UdKMBH40klPND0X9Y1XYgZrnU+Sw81SMSOlAreH5s8zY1G87iaGPOrh04aEvgBIzDvdwJc7hJyQ22qQfWZZ3d1qEKfjrzQUhTuM7PpJoqSq9/O5hM+FSjIcY=
+        selected: false
+        status: Solved
+        is_visible: false
     encrypted_text: JOlrc05WUCsrcvu8aiKeKcGgSILePgmdKXfy/t7jLe2Kou80ho4NMapNRKOtSIz0N9hcK3uSrwwHlw89mNgfJBbOeFqI4vfQ8mU2Egt3i5rvrL18AMj80/mb8+Ychm6YSNXWOsa27w8EPvMfDIs4echOGFDNd9YYWddbk5QMSLvDDFXwX5ftULSZbEiIZFdCZky6h9QDiK0sZeKZeHWbu4GzMrrHR3S9PUBoD32PxUg=
     learner_created: false
   - name: test/Tests.kt
@@ -21,5 +22,8 @@ files:
     learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Programming+Basics+%2F+Summary+1+%2F+Exercise3
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 07 Mar 2024 18:15:55 UTC"
 record: -1

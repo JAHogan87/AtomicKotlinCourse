@@ -10,9 +10,10 @@ files:
           length: 13
           offset: 62
         initialized_from_dependency: false
+        encrypted_possible_answer: H3o+uf/Bci0V+0S2lWpL5fA5amaPHOSOrY64pByymRlHl7wifDrUEQN0jc7ybKi/4hWgMvLaA93VRKPBf63nYeVKn2hDUud+E1LoonVVjlMaHVy+q2Vu/gg1A18muPqjLw0eZZj+Gil4Sc5rChN+gyHBRZChjRywOE2QWn4LNmxzaHo77uXQMLW70E2zpkvD
         selected: false
         status: Solved
-        encrypted_possible_answer: H3o+uf/Bci0V+0S2lWpL5fA5amaPHOSOrY64pByymRlHl7wifDrUEQN0jc7ybKi/4hWgMvLaA93VRKPBf63nYeVKn2hDUud+E1LoonVVjlMaHVy+q2Vu/gg1A18muPqjLw0eZZj+Gil4Sc5rChN+gyHBRZChjRywOE2QWn4LNmxzaHo77uXQMLW70E2zpkvD
+        is_visible: false
     encrypted_text: ziGQOjgkKm7dlGET51GACABBsW9gHpIIv4GkUCywij3VnTLVDFlt4LsACnwIZD8oYGOCwyeWF3Kqd528javrkOXL9Lv2kb84xZN+ZRXFQdgr1IWCPXTuRUKkktEdLIKk6kPxDRU57jpL0BM02o09C8ptN8J5Y+3eAsTmhE+xoTdxkqh1TNdnGByX6l3wDnMl5+EWXe2sZUj2NQ2e0zwSgAx1ZdwQBi0oOK51u/+mKWA=
     learner_created: false
   - name: test/Tests.kt

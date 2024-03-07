@@ -14,9 +14,10 @@ files:
           length: 7
           offset: 65
         initialized_from_dependency: false
+        encrypted_possible_answer: ZvXBa7bk21BzV1E4dqfPcx43Y9ZAW4T4jIbLUCrp2rIi3od2Gwe/XwosIi15IdrqWgVjDClSS2BjF/QhJ3fS4w==
         selected: false
         status: Solved
-        encrypted_possible_answer: ZvXBa7bk21BzV1E4dqfPcx43Y9ZAW4T4jIbLUCrp2rIi3od2Gwe/XwosIi15IdrqWgVjDClSS2BjF/QhJ3fS4w==
+        is_visible: false
     encrypted_text: lk3JxEpUKOvddjKucMSUXGgN20YUkqu9Z3iUnqfAPeilFOYAVSCP3pm4EUY0Gt8jAOhI+YPMd69cBk+9MWOEjn6pvyvBPgdIx0x5eAkcG84=
     learner_created: false
 status: Solved

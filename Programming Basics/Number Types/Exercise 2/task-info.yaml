@@ -10,9 +10,10 @@ files:
           length: 1
           offset: 130
         initialized_from_dependency: false
+        encrypted_possible_answer: +upyuuYPnr1yp93SWCFvvA==
         selected: false
         status: Solved
-        encrypted_possible_answer: +upyuuYPnr1yp93SWCFvvA==
+        is_visible: false
       - offset: 175
         length: 5
         placeholder_text: TODO()
@@ -20,9 +21,10 @@ files:
           length: 6
           offset: 158
         initialized_from_dependency: false
+        encrypted_possible_answer: eqBJL1C509+r1J2a7zkF/Q==
         selected: false
         status: Solved
-        encrypted_possible_answer: eqBJL1C509+r1J2a7zkF/Q==
+        is_visible: false
       - offset: 203
         length: 17
         placeholder_text: 0
@@ -30,9 +32,10 @@ files:
           length: 1
           offset: 181
         initialized_from_dependency: false
+        encrypted_possible_answer: sTnQ3LYhury3zKlq9Z+DlQpO5AVFTPERTbbGT7GSq/Q=
         selected: false
         status: Solved
-        encrypted_possible_answer: sTnQ3LYhury3zKlq9Z+DlQpO5AVFTPERTbbGT7GSq/Q=
+        is_visible: false
       - offset: 248
         length: 6
         placeholder_text: TODO()
@@ -40,9 +43,10 @@ files:
           length: 6
           offset: 210
         initialized_from_dependency: false
+        encrypted_possible_answer: yZv5QOtlKs0/wFxV1B1hvw==
         selected: false
         status: Solved
-        encrypted_possible_answer: yZv5QOtlKs0/wFxV1B1hvw==
+        is_visible: false
       - offset: 280
         length: 25
         placeholder_text: 0
@@ -50,9 +54,10 @@ files:
           length: 1
           offset: 236
         initialized_from_dependency: false
+        encrypted_possible_answer: sTnQ3LYhury3zKlq9Z+DlSDsj4HbJXLB+Gh4FYqvS7w=
         selected: false
         status: Solved
-        encrypted_possible_answer: sTnQ3LYhury3zKlq9Z+DlSDsj4HbJXLB+Gh4FYqvS7w=
+        is_visible: false
       - offset: 336
         length: 125
         placeholder_text: TODO()
@@ -60,9 +65,10 @@ files:
           length: 6
           offset: 268
         initialized_from_dependency: false
+        encrypted_possible_answer: yZv5QOtlKs0/wFxV1B1hvw==
         selected: false
         status: Solved
-        encrypted_possible_answer: yZv5QOtlKs0/wFxV1B1hvw==
+        is_visible: false
     encrypted_text: +RXl2ExswN+QyFjhk9TWrvn8+vfWV+ifd1q4oWGLyvsDr19h9rGyPKbu06nhwzs3iG8vm6xGHb2ShpXsgajRrRaWlE2ytVMQ3xrdV53jWdfDZKtvH0Wl5QaPoh1yRnxiWLONYJ4FYJKQ1Rlk7L94YCZ7YvmSi1e8qN5M3SdwPM7l4RrwU7gk0T7r3p5shSU+KQshyIj7u4VC0M6GdsdE42y9vKWXU8ALmlDLahl7KdekgmIPvDmrUSdUMX5bg8zKMN2kieT2DVNVLproWQ+oSrnaCtpnd/fedlcw6/1TQuJgusErWeKclRIzlLU2jGOlbFF2dJqoSWSNFdreQVoSaiwA5nKPDw9bw+j4KAU6citJOvZLAM+VMkh8GpHw3lf3
     learner_created: false
   - name: test/Tests.kt

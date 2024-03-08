@@ -4,15 +4,16 @@ files:
     visible: true
     placeholders:
       - offset: 105
-        length: 6
+        length: 40
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 105
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: 1FQApso8parLceMkVjFkwlB/S3LGHLXHrCfo/6YMEoRhhZDlUggAsbVxCQ+D5Bs4
+        selected: false
+        status: Solved
+        is_visible: false
     encrypted_text: Glgmg5lJn8rh17aXmVvO9NY/rX935wFF7O/QqHpNjrCKenY3sUIJYFSA6oJnEWhTi/nzIJrUGmk4Tjsexp1DLKvub/OYunoYhS+XeauplCURt/JuwmX/N/xYyEqmcAc/klQGTtZqqvnlfD+bfBS0aWyI9HvdrabmDK7E5uYEnPjA4YnVos9qNlo7lOhtVSLr4yzQecMmvPFqXNJFjQaGe7+aeTiCM3JD6p5356G6I4c=
     learner_created: false
   - name: test/Tests.kt
@@ -21,5 +22,8 @@ files:
     learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Objects+Everywhere+%2F+Exercise4
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 08 Mar 2024 01:58:51 UTC"
 record: -1

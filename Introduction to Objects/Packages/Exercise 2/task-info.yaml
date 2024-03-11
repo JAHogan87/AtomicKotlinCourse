@@ -8,56 +8,63 @@ files:
     visible: true
     placeholders:
       - offset: 31
-        length: 7
+        length: 67
         placeholder_text: // TODO
         initial_state:
           length: 7
           offset: 31
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: dPoPWwVkn4mmIj0cvawf2mJJshn/Npu6f1tExb2ml3q+3AtEsu1VBRHiXT+sm9C8MYLfFwWXFWeEwe2VTNiFDA==
+        selected: false
+        status: Solved
+        is_visible: false
     encrypted_text: 2RbCRxOo8XhUqbi5W63uI4zMJ3B4oXsulawJaERK7E+h6zqqjnG6a1rwp3n2+ZXh
     learner_created: false
   - name: src/aaa.kt
     visible: true
     placeholders:
-      - offset: 32
-        length: 7
+      - offset: 42
+        length: 98
         placeholder_text: // TODO
         initial_state:
           length: 7
           offset: 32
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: XYD8fkj9JtKLZal1m9+aCtxfimBFPhmEDXF1W/uiHk2aFPmtpgBaBEeRPmssES4Qz745FliRAZCXb7MuaQeieMtcGe/o29nDNsGACE5YpA4=
+        selected: false
+        status: Solved
+        is_visible: false
     encrypted_text: AORhu9/rISUVve6uVi/bE0gCA2Q6KofIf+RosclcJ2Z/0FPVJjSOemyhCEUkgoWY
     learner_created: false
   - name: src/Task.kt
     visible: true
     placeholders:
       - offset: 33
-        length: 7
+        length: 25
         placeholder_text: // TODO
         initial_state:
           length: 7
           offset: 33
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: w5UoU862OSkBj+5AEwhLRQ==
-      - offset: 57
-        length: 7
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 75
+        length: 13
         placeholder_text: // TODO
         initial_state:
           length: 7
           offset: 57
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: E/jIECiwYOL+a2CJYS0asA==
+        selected: false
+        status: Solved
+        is_visible: false
     encrypted_text: 4GI4NLaY2EgfHdd6jMSvNbTNzH5czAEs+jm/nrYyt3TUKfp9outmrbbzGPRt5zYHIyRkEI9NcAZ7OV4o+i5frofm8MBTypuFgvrGFWT9gUA=
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 11 Mar 2024 03:58:51 UTC"
 record: -1

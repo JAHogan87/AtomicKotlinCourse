@@ -3,17 +3,18 @@ files:
   - name: src/Task.kt
     visible: true
     placeholders:
-      - offset: 347
+      - offset: 509
         length: 0
         placeholder_text: ""
         initial_state:
           length: 0
           offset: 347
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: MBHVCxR23HYSaNnVtZLU1KqTiVO4JW5/Yp/umzOWgTYeDaLU20VFUazzmgfKLQADNiJzDmSjY9JaGYk8PPXpIyMii+BLtn+zcC+QgolaG/+0QNK8hGWj0ZcoP49f1ekaut76XqgxNI6scC9zIPjjn55X9JArwlVeoZ6r0uevoeWxBjPNaNKdic/hAxKukedCzP8Ratqqp3HfJMIwZV4Q86YfF+0Z7eift+VMmAxG+9M=
-      - offset: 379
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 573
         length: 33
         placeholder_text: |-
           x += steps
@@ -22,10 +23,11 @@ files:
           length: 33
           offset: 379
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: AhB7HPl2axKNMWkWLM18gas4iB0fObnyjX9uP7Hbxrr804UbLHYvpOerzczOppaxwQNueJhA9TzzQEDP5cRweiPqhd/9PZG0M60ikV2cdHY=
-      - offset: 447
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 673
         length: 33
         placeholder_text: |-
           x -= steps
@@ -34,10 +36,11 @@ files:
           length: 33
           offset: 447
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: AhB7HPl2axKNMWkWLM18gas4iB0fObnyjX9uP7Hbxrq4+6FOEUOICvtcDOoMcYzgMu2L6gaGyKevMnPDloKdYYxZ5aHUVEV0nHLIXGDuEYs=
-      - offset: 515
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 773
         length: 33
         placeholder_text: |-
           y += steps
@@ -46,10 +49,11 @@ files:
           length: 33
           offset: 515
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: AhB7HPl2axKNMWkWLM18gas4iB0fObnyjX9uP7Hbxrqqgx7EfqeBrwZw8n0YYUJ6hZKnGdfVEzJAz/ms8zktRCHrb/lV6R5YwLAzAAs7R6s=
-      - offset: 581
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 871
         length: 33
         placeholder_text: |-
           y -= steps
@@ -58,9 +62,10 @@ files:
           length: 33
           offset: 581
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: AhB7HPl2axKNMWkWLM18gas4iB0fObnyjX9uP7Hbxro6hGZke/hmZgsXWjup0eSHoJAbf38Tkaw2fS8W/Vg1gh/zU81Saz41SPOGMHrHBO0=
+        selected: false
+        status: Solved
+        is_visible: false
     encrypted_text: oiFvuJ8k9YNMY/45IIyyU4+hm0kZcn2t+BqndaTAB/82NElsz082g7Ig4Dkf0uTNcjBwEiNe+y81xpwi6MwzQjfess2TKWbVGpDcGmmI8KvLqUD0lZnVCTYruVoGcEddCPiQe1PqGY/XtOSwrqXKp7ZrsduJxNXGTeeu5sIerDFmL9e4kpgLVnw031Ew2dr3US+L7dzy6C/THrPJZF49xEw61DS+Z68/l25ZoXyAADLYqp2BrtY+Hga01NObtJPFov4vRfoW5n839q1YJqr94UHeAX9IHpSLAU2+bMj3KGKUF66FhMsORoyH0xSYpwLf9mPzI65UxPS2pP/A4H+OpVIKHlVh9HDljiwsaa7EUP+byOlf+WZvljYtLf3c8YHyw8h71cSEKrGtyeHWd0njcVXYH8AaRYXvQXtHyA+tS+WmA32/jpcYmD02eKmnjtRpxEWybFgbDP0dbEwcLJTxAnm0mO3FRV53Yt/wRcdNcuNuDIU7n2O0uqNWbBnlEFasAq6bZ1c0y34fNoQ7ntEi09Qw3boV8/4ZvFLUeu/59SeKj24218aKdfTn/ul84wlJtB6ahddZ2ZYb+y2ukio+VcWv7DYoOmPCzvlu6a2puDMAaN87epg758JnlZ1X6xeSjOt9anLiSwj1Iq8q0UvYAuoeMzsVIZX1KzrBXw5N4Jpl/9Z93TuQ2glFiWWxyb1NHfsGhKevN5G3yyRcKnaCSajDaw4TmSxq9z90TSi1DKPus1u+pyJ9JTVioI+ditg98Eawf8yMEMKLo7kktL5a554nRO//Y6Kyt/FpDi7jqLVYOY0wAibfTDd2jHAp3Xx+uakQUw1qv1IeI9eqzDmZC91KMlHlP4CGUVL0mx9W7lJvtUYcL7+IHixM/CP43ll6v2FTLO8dkPGIQZfH4JHaTMwQkoqR1+M7TR6R80hYX1EYywP0Xo72luk6SSDAl+ZXWAYUQ73wkBFRDWrqMygYt4exijSBlUuflH6DeFJKnWapkXwLTmgN16LOkgN+DjLJSlMyk4b0NQ2K22UswR+1zAmk+Krx5KM0Thqc1zyCWpxFfI6nzFlMXop8Y/pfKauiSdNgx+UOuhW65UErEgumcQ==
     learner_created: false
   - name: test/Tests.kt
@@ -69,5 +74,8 @@ files:
     learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Constraining+Visibility+%2F+Exercise2
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 11 Mar 2024 03:40:21 UTC"
 record: -1

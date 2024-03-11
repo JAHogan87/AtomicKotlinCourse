@@ -7,33 +7,35 @@ files:
   - name: src/EquilateralTriangle.kt
     visible: true
     placeholders:
-      - offset: 55
-        length: 33
+      - offset: 76
+        length: 93
         placeholder_text: // TODO class EquilateralTriangle
         initial_state:
           length: 33
           offset: 55
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: E1SJj7jPmwPW/Y8TGBLEkiza4BJoqsboe5X8BJb8GDUFYIEZaIo/7rP++zGdjITcwkrAiRvWR5m3e8LWrl22PLpjU6vtekttFO6U67n6/gH3RXvGJE/BxiGTsjMElWetrzgYoau06YYCXTGPR/T5ElyXdOaIYW87JH25mn5yc2c=
+        selected: false
+        status: Solved
+        is_visible: false
     encrypted_text: cxg0QOf6jRwQK0P1gjmcYHvNYSNaWXGIUUGySLgBoPZ8wP4vgx4AdFs00h5Lylb+ipwggupQe41f5n6VxN9kO7PclbDchX/b3/fscbji1x1UGChv1aQ+bfPHsI/2Mh2d
     learner_created: false
   - name: src/Task.kt
     visible: true
     placeholders:
-      - offset: 47
-        length: 14
+      - offset: 46
+        length: 41
         placeholder_text: // TODO import
         initial_state:
           length: 14
           offset: 47
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: 5/qihGXfbiMZ+ST1+X2LW6KkKF91lYJXIDmandmmmamd6RX1UB8CiHIzOzlL3Iud
-      - offset: 78
-        length: 86
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 101
+        length: 80
         placeholder_text: |-
           /*
             val et = EquilateralTriangle(1.0)
@@ -43,12 +45,16 @@ files:
           length: 86
           offset: 78
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: 3C//1HNI5Apw01oSk13QTP/fg+DBnTaVo1aVDmJdXSY81Y8aSFrA8Secylh6e9xhkMTelj2niwzRgkeUSdervNeIiFCNX+8LCSLG2J17fSA=
+        selected: false
+        status: Solved
+        is_visible: false
     encrypted_text: 4GI4NLaY2EgfHdd6jMSvNb3Xpl0UeYEWLh4e9TAhJiCgNaPG2l+PuuNlD/NwJgF1Bns0v8pgLqyOvMZt2CqNRmzvLf/U4b/q4DUholc3thVXmqcn2F1rW/QJdfnbMJjgd+sgUkbFVRGwi5mJNOjTt4Ti6h6FpmpigAZjt1LbT33QRhKhoGxa8rz3EHYAvk4z9xO+0EBLPS2TvmjiIsXVbOuKDvwSrPU5oQz6UMbZBAk=
     learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Imports+%26+Packages+%2F+Exercise1
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 11 Mar 2024 04:11:05 UTC"
 record: -1

@@ -3,16 +3,17 @@ files:
   - name: src/Task.kt
     visible: true
     placeholders:
-      - offset: 628
+      - offset: 678
         length: 24
         placeholder_text: /* Implement toString */
         initial_state:
           length: 24
           offset: 628
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: 5E6cTw+7TqxJw9xS3JRR60e8Nd1Zlx4CC6YxE7JTwKTWZxG/EdlCDw4IBOq5OVhU
+        selected: false
+        status: Solved
+        is_visible: false
     encrypted_text: wsFajd1WBHNeyjejx3rS8TCj201Bl0AT53B1l9MdB4I6OoM05bnrhwVu36CVHfrmFT96nH2dDd2Vt4EMT7YtOQGzasiyNoAlChmGnmxsTLJkI5IvhzWhHDlvRZXGMNef1WWhfxgavBBm6AQ584khM2sANBGANUsfJP/DIk69r7LaDSJgjyZboUa9cSe9N2RY3LVeHzhzYVDCPPonrU2ldMI3zfZ1oylV4n0IKkXRp0QZ49SjMGzPQYah4w4z3VK/WkZVeIyYDkNdNjDf9di+a8Dyha6X0TRg9OkXBCX0NDye68odWu7KyEmhX4ivR/vUSK/n2OfMxgEjiH/j3Rfjo2A/ODLAkzJHZkQEMC1msfihHxfyvOUyBwdxJb2EWu5edQxG9h6ZlB5cFl024UnlcecqLHLITWzgZ1G1MrtQjS2NBv7B1HdOuarTEBnnOGYXWlYBLUK1iP1KmIzm6FI5bBpzImJdcdTR8Gp/lF5znF/9LjTXZYX+55m4XVKHAyuf7siO0McmcZldgjRlCBw2RuoYpIjsuFgeuO5wLkcDSqXB1rFdHODEarLx74l0DeenzwwFd0KEKY/t3hzkWLbD3AmfPJebMpp0ZdRC9ijvkKVwXFzZPGSPZeggBtDgk9XIImer1oGXQWAKl3FFUHl2KQ3qyOnIE7pKZEV8oDHSCie49+Yk4wFrwgerYflnHDZFToV/8KkyJPGFUdGPkPNq+1Bh8mHYzLWUMVbhCEUz6QVufryl0u9Dc9FyeNgz0NyfM1ivEDM4JgRtuZFKr4hFXBrZ7g/bGFVGuHWouaV9fyHbvK4ASkdVQcAU8rWlCNL4DOgOkXSsqOZtNEEWlZOTCNGxl+FDDueUzAO740rfvSR4fER76Js3iV9jM4sSRkm/QbAbBcKsWq0/Q23o2lnp5V/fI8MflbR9hDuTo6T1cNc7ytGvXoRQI3K8cuny35+z6nMn5x9N1YPRscZqHJhmWjOy/69GRHDTW8m/hccIyzw=
     learner_created: false
   - name: test/Tests.kt
@@ -21,5 +22,8 @@ files:
     learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Constructors+%2F+Exercise2
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 10 Mar 2024 23:11:10 UTC"
 record: -1

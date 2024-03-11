@@ -5,7 +5,9 @@ class Human(
   val name: String,
   val age: Int
 ) {
-  /*TODO*/
+  override fun toString(): String {
+    return "Human(name='$name', age=$age)"
+  }
 }
 
 fun main() {

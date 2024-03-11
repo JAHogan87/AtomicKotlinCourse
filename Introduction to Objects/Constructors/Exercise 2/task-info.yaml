@@ -4,7 +4,7 @@ files:
     visible: true
     placeholders:
       - offset: 67
-        length: 48
+        length: 229
         placeholder_text: |2-
            {
             var x = 0
@@ -14,9 +14,10 @@ files:
           length: 48
           offset: 67
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: eaFbVhjYbKFSiKs/J3lpFC01EnlmQK1nio5hY0/fCN07r/JoqZsLlE8wqwdrm1ES
+        selected: false
+        status: Solved
+        is_visible: false
     encrypted_text: wsFajd1WBHNeyjejx3rS8erwjQ/bA0NHmnRShXUZmLHt4lE0FZYVOjokhOKZYQRwbjDW9oFJjkKcEuXqYcRnRqG3kjqtM4c6S2jRJtQ+wHZuoRdi9OR7VLUQwbFe5Z3cSUvwbzy6cAbE7TOJrTbD5NCEAKkGQRQV2rnTlTo0KviX8TEmK68CL+HC2MllNFXBFHR4d3TggeeCEiuWKpudAcdI1RQ4PV7oW2Tl15HpyvKSGaBqgBYK6K5J4YcFu5u2hymB5vj6JrP4FWW4mkO+iGHjht0wrmciH9OwBqQnLhAUpAdEDO3NI4i8EM9jhhqWoZIgXCVC2fD7mYAX49OOaRSahtyChtYlT2HJAZgCYzCcVH7+fwVqbLWlvZn5s4uA7DfQF8eyp533U33iUTcFNWM0DOgYCUZhN9wzBbEaCFS9uripFCmzfFNSrOM2OfwPtg/nn9Fv4bqIGeST6ut4tELc+H0ivXmPvK1BN5qSRPntTvGmAq6ErFfFggpM0jETDZChRsWIeUqfxyAZouYwyTFAorUbTVnc5mFBrACWk+v+DoURnv+0j4OOrk1k8QgG7oBp75AiLKXSCMIMKHMEf2t0ofA6v7WVy3fpArEis9rjw9xmCflIq6qKAOh0S0ZOBvqTa/ine8n31G+5ozfcwjjsM1NLoopbJ8furCP2fPzauPx7HOEyixDAmH6rHvAX7IyAGRzjt5a/pEO7l17ebAVsPHlOb0MjC8n9qA7+dBtzckN/MtEm0exjTZx8rTmSBni0E6Xk1hKGxaZdodkKNH39ZEZqsIJUB2434CU4+ht+4ALdyDj3zLKNYigtaUaRwl2C8CrDkrsfM+iyjGliALu0D4fHjAQcX1lrxofc42juX2YBDJQ9FoZPgF47o2LI9nHJ6I8iFjrJR7VtcOSn7xEDQG9GSwoiBGljT5Fh+ZxVmAOH3TTHbyiKIt0RLXaAYoU0k8mYImaxN8gibHzo4DpXdmYlZwhOQZNjJacJkFP1bYpZ+2ThJeqN1sbaGQF3D7ueeWZGQUGOb6e0FqKS+C78NfYgOSR4iQGwdxHP6lvKrFAhyZDcqVSQYQQMr3MwfR1lhfYRi7oyyeOwax3BMOtjvx2etveoJtkY+c3PZP6f31GSNbpi5bo6ht1l8h6N
     learner_created: false
   - name: test/Tests.kt
@@ -25,5 +26,8 @@ files:
     learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Constructors+%2F+Exercise1
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 10 Mar 2024 23:00:19 UTC"
 record: -1

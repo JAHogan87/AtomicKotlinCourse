@@ -14,25 +14,37 @@ class Robot(
       inBounds
     }
   }
+ fun negSteps(steps: Int): Boolean{
+   if(steps < 1) {
+     println("steps argument must be positive, is $steps")
+     return true
+   }
+       return false
+
+   }
 
   
 
   fun right(steps: Int) {
+    if (negSteps(steps)) return
     x += steps
   x = crossBoundary(x)
   }
 
   fun left(steps: Int) {
+    if (negSteps(steps)) return
     x -= steps
   x = crossBoundary(x)
   }
 
   fun down(steps: Int) {
+    if (negSteps(steps)) return
     y += steps
   y = crossBoundary(y)
   }
 
   fun up(steps: Int) {
+    if (negSteps(steps)) return
     y -= steps
   y = crossBoundary(y)
   }
@@ -44,7 +56,7 @@ class Robot(
 
 fun main() {
   val robot = Robot(10, 1, 1)
-  robot.right(-1)
+  robot.left(0)
 }
 /* Output:
 steps argument must be positive, is -1

@@ -11,6 +11,9 @@ class Robot(val fieldSize: Int, var x: Int, var y: Int) {
     }
   }
 
+  override fun toString() = "Robot(x=$x, y=$y)"
+
+
   fun goRight(steps: Int) {
     x += steps
     x = crossBoundary(x)

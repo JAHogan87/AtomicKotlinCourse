@@ -4,25 +4,27 @@ files:
     visible: true
     placeholders:
       - offset: 56
-        length: 7
+        length: 81
         placeholder_text: // TODO
         initial_state:
           length: 7
           offset: 56
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: t7f+MVYjMTibXt/a8Oi2IJzTJWq8LgzweViWj0FDov1MrDGWitfePdjeOrhBR5vgUdgamC16MyxIxCloKQRmMnugFWv6wf9mfIb0E/E2Z1nqarPYKvVjwfbqJ/Pb8mQ6
-      - offset: 80
-        length: 6
+        selected: false
+        status: Solved
+        is_visible: false
+      - offset: 154
+        length: 49
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 80
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: dogjUtXnGY0o8Bi13yhD1fmCYqhvJrHuNmbw4IrwfRAK/Qv+0eNxvst3g6+6g7XCf6JsQW/T34y/yKPmi4JnbQ==
+        selected: false
+        status: Solved
+        is_visible: false
     encrypted_text: wsFajd1WBHNeyjejx3rS8XrnVIZN74cTHyue300kjUxe/W2umi1ysK3UonaQ/B5kIYInki4I6cT7o7pTI5ZiAM2aUbIW73qj3uVuKZn1yoZlDCWoM9wWr36iis5piB1B
     learner_created: false
   - name: test/Tests.kt
@@ -31,5 +33,8 @@ files:
     learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Constructors+%2F+Exercise1
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 10 Mar 2024 22:52:18 UTC"
 record: -1

@@ -3,8 +3,13 @@ package exceptionsExercise2
 import atomictest.capture
 import atomictest.eq
 
-fun abort(s: String) {}
+fun abort(s: String) {
+  throw (Exception(s))
+}
 
 fun main() {
-  TODO()
+  capture{
+    abort("Stop!")
+  }  eq "Exception: Stop!"
+
 }

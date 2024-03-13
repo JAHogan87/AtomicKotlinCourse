@@ -10,5 +10,5 @@ fun bar() {
 }
 
 fun main() {
-  // bar() // Uncomment this to see exception
+   bar() // Uncomment this to see exception
 }

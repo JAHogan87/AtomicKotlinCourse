@@ -3,16 +3,17 @@ files:
   - name: src/Task.kt
     visible: true
     placeholders:
-      - offset: 144
-        length: 6
+      - offset: 268
+        length: 43
         placeholder_text: TODO()
         initial_state:
           length: 6
           offset: 144
         initialized_from_dependency: false
-        selected: false
-        status: Unchecked
         encrypted_possible_answer: SNqo6gYLP61DHDjEQ812tJznyMk7Occou/lE9aHhpu9C83cdAiKsUrxA2qy///SZj/K/RP6tgPo8hbaRgycD4T1gtmxKUCUo9HJtcCQTkGcq86u7C+nZCkp8MnYFtSab2tKKcwnWQdy6sO6YdjbHHN0riVjg17jbu01QeQZ6TqsNgJFuyNVTAnhHr86A+VRb9kvLbAvwmkZZQtGdYNAHLw==
+        selected: false
+        status: Solved
+        is_visible: false
     encrypted_text: EIbye9KfpDiE/jF1NL59JQiT24tygdHvDGgcJ0piVapmOoAVm0QadYfVYQcq7ftPznEiXgqCnemdMpCUmO9am04YiHF91ummWcHv0835GKoEj6vU9SH8u8zpOnOR+eGcjEKSQjOa8XJntVac4rMTdwUgEbAlXx4814vub4qE+cvTjgQArCy2pwjdHfz3spaf+PyPeQuTHMCAxYkRO2t4A2c1Ymv+21z6IEgd6YG55aPcZKGrGN05MK1MsW5cHGvjMCg8Z5+MD/AJpBzLq7T3OlSSqqdt7V8DPKZHMCL4a1sDsJQ7TwdxOPJM/T4I/hvsjHCOGKJOY/GiSmB8Iv3Pg+UbzMzdwI5CzOrEoXpOvtYdXUqcxk5FzAM/70VKK8gI3O3SfEv+6wSkOsOo5Ctfl4fButTUj2/0eS75PgfmpaU=
     learner_created: false
   - name: test/Tests.kt
@@ -21,5 +22,8 @@ files:
     learner_created: false
 feedback_link: |
   https://docs.google.com/forms/d/e/1FAIpQLSdkaliSwYkjiV21bZl0yP-In2g5p17sAQCfaGjyHx_QYMWTiQ/viewform?usp=pp_url&entry.189755027=Introduction+to+Objects+%2F+Exceptions+%2F+Exercise1
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 13 Mar 2024 20:17:44 UTC"
 record: -1
